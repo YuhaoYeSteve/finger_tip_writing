@@ -4,6 +4,15 @@
 
 无需额外硬件，只需打开浏览器，捏合手指即可开始书写！
 
+## ✨ 演示效果 (Demo)
+
+<div align="center">
+  <video src="https://github.com/YuhaoYeSteve/finger_tip_writing/raw/main/demo.webm" width="100%" controls="controls" autoplay loop muted>
+  </video>
+  <br/>
+  <i>(如果视频无法播放，请<a href="https://github.com/YuhaoYeSteve/finger_tip_writing/raw/main/demo.webm">点击此处下载</a>观看)</i>
+</div>
+
 ## 🌟 核心功能
 
 *   **自然交互**：采用“捏合落笔”手势（食指与拇指捏合），模拟真实握笔体验，解决空中书写无法断笔的痛点。
