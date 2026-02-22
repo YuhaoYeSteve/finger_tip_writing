@@ -7,10 +7,7 @@
 ## ✨ 演示效果 (Demo)
 
 <div align="center">
-  <video src="https://github.com/YuhaoYeSteve/finger_tip_writing/raw/main/demo.webm" width="100%" controls="controls" autoplay loop muted>
-  </video>
-  <br/>
-  <i>(如果视频无法播放，请<a href="https://github.com/YuhaoYeSteve/finger_tip_writing/raw/main/demo.webm">点击此处下载</a>观看)</i>
+  <img src="demo.gif" width="100%" alt="指尖书写演示" />
 </div>
 
 ## 🌟 核心功能
