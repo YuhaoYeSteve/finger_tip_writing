@@ -1,5 +1,11 @@
 # 指尖书写 (Finger Tip Writing) ✍️✨
 
+![Last Commit](https://img.shields.io/github/last-commit/YuhaoYeSteve/finger_tip_writing?color=blueviolet)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/YuhaoYeSteve/finger_tip_writing?color=blue)
+![Repo Size](https://img.shields.io/github/repo-size/YuhaoYeSteve/finger_tip_writing?color=success)
+
+> **本项目完全基于 Trae 进行 Vibe Coding 构建。** 🚀
+
 一个基于 Web 摄像头的 AR 指尖书写应用，利用计算机视觉技术捕捉手部动作，让你在空气中挥洒创意。
 
 无需额外硬件，只需打开浏览器，捏合手指即可开始书写！
